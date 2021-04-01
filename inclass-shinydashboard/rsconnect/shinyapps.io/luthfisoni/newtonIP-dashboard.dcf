@@ -1,0 +1,12 @@
+name: newtonIP-dashboard
+title: newtonIP-dashboard
+username:
+account: luthfisoni
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3896711
+bundleId: 4420323
+url: https://luthfisoni.shinyapps.io/newtonIP-dashboard/
+when: 1617280951.33884
+asMultiple: FALSE
+asStatic: FALSE
